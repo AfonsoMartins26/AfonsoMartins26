@@ -9,7 +9,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afonsomartins26&show_icons=true&locale=en&layout=compact" alt="afonsomartins26" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afonsomartins26&show_icons=true&locale=en" alt="afonsomartins26" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afonsomartins26&" alt="afonsomartins26" /></p>
 
